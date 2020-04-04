@@ -1,3 +1,1 @@
-# Courses
- 
-> "Our greatest glory is not in never falling, but in rising every time we fall." ― _Confucius_
+> "“The more a thing tends to be permanent, the more it tends to be lifeless.”" ― _Alan Watts_
