@@ -1,0 +1,3 @@
+User:jeff@irock.com 10/09/2020 10:55:28 PM: INFO: main Line:25 This is an info-level log message
+User:jeff@irock.com 10/09/2020 10:55:28 PM: WARNING: main Line:26 This is a warning-level message
+User:jeff@irock.com 10/09/2020 10:55:28 PM: DEBUG: anotherFunction Line:11 This is a debug level message
