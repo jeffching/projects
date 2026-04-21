@@ -1,0 +1,10 @@
+component:
+  name: read_facilities
+  description: Read facilities reference data from the local data directory.
+  read:
+    connection: read_local_files
+    local_file:
+      path: read_facilities.csv
+      parser:
+        csv:
+          header: true

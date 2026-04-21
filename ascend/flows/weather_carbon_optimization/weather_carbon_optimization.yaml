@@ -1,0 +1,6 @@
+flow:
+  name: weather_carbon_optimization
+  description: Weather, carbon, and operations optimization flow.
+  version: 0.1.0
+  data_plane:
+    connection_name: data_plane_fabric
